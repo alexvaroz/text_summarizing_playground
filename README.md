@@ -1,5 +1,5 @@
 # NLP Text Summarization Project  
-This repository contains implementations of three different approaches to the important task of Natural Language Processing (NLP), specifically text summarization. 
+This repository contains implementations of three different approaches to the important task of Natural Language Processing (NLP), specifically **text summarization**. 
 The project explores building solutions using three distinct methods: TF-IDF, leveraging a model from Hugging Face, and utilizing the OpenAI API.  
 
 ## Table of Contents 
